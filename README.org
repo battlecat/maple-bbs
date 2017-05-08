@@ -52,7 +52,7 @@
     #+BEGIN_SRC shell
       git clone https://github.com/honmaple/flask-maple
       cd flask-maple
-      pip uninstall flask-maple
+      pip install flask-maple
       python setup.py install
     #+END_SRC
     to install *flask-maple*
@@ -128,7 +128,7 @@
     #+BEGIN_SRC shell
       git clone https://github.com/honmaple/flask-maple
       cd flask-maple
-      pip uninstall flask-maple
+      pip install flask-maple
       python setup.py install
     #+END_SRC
     来安装*flask-maple*
